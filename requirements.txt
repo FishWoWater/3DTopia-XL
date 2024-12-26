@@ -4,7 +4,9 @@ opencv-python
 libigl
 trimesh==4.2.0
 pygltflib
-pymeshlab==0.2
+pymeshlab
+numpy<2
+onnxruntime
 PyMCubes
 xatlas
 git+https://github.com/NVlabs/nvdiffrast/
